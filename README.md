@@ -36,4 +36,6 @@ Además, la visualización gráfica de los tiempos de ejecución para diferentes
 
 En resumen, la versión modificada del algoritmo representa una mejora significativa en términos de complejidad y rendimiento, lo que la convierte en una opción más eficiente para buscar pares de elementos con una suma objetivo en una lista.
 
-![Figure_1](https://github.com/PabloRodriguezPUJ/AnalisisAlgoritmos/assets/124098579/67d6f97d-b018-4d79-93f0-5d3386144322)
+Gráfica:
+![Figure_1](https://github.com/PabloRodriguezPUJ/AnalisisAlgoritmos/assets/124098579/d726651d-a1a9-42e1-9611-2e2209458f46)
+
