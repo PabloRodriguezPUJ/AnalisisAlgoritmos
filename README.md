@@ -15,6 +15,8 @@ Integrantes:
 * Santiago Guerrero
 
 Informe de los cambios realizados a la propuesta del reto
+
+
 El código original contiene un algoritmo que busca pares de elementos en una lista cuya suma sea igual a un valor objetivo (suma). El algoritmo original tiene una complejidad de O(n^2) debido a que utiliza dos bucles anidados para comparar todas las combinaciones posibles de elementos en la lista. 
 Para mejorar la complejidad y optimizar el rendimiento del algoritmo, se propuso una versión modificada que tiene una complejidad de O(n). A continuación, se explican la propuesta que realizamos en el grupo: 
 
